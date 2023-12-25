@@ -1,2 +1,2 @@
-# fantasy-system
-A system for fantasy RPGs
+# Fantasy System
+An open source fantasy RPG system.
